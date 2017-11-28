@@ -1,4 +1,4 @@
-# CS6522 Course Project - Bookstore
+# CS6522 Course Project - Bookstore (Fall 2017)
 
 ## By Muhammad Imran Malik
 ## NetID: wm6052
@@ -37,11 +37,18 @@ mysql> exit
 
 7. Add JDBC mysql connector library to your netbeans project
 
-8. Build and run. It should open the index.jsp 
+8. Build and run. It should open the index.jsp.
 
-9. Try logging in with init user accounts which were already created by initdb.sql in Step 2. 
+9. To login visit : http://localhost:8088/projectbookstore/login1.jsp
+
+10. Try logging in with init user accounts which were already created by initdb.sql in Step 2. 
 Some users to log in with username/password are:
 root/root
+
+11. To Browse books: http://localhost:8088/projectbookstore/browsebooks.jsp
+
+12. To view and place orders from your cart : http://localhost:8088/projectbookstore/cart.jsp
+
 
 ## Testing Login with test accounts
 

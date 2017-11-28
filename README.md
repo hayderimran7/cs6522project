@@ -43,6 +43,18 @@ mysql> exit
 Some users to log in with username/password are:
 root/root
 
+## Testing Login with test accounts
+
+Some accounts are pre-setup by `initdb.sql` and their credentials are:  
+
+```  
+Username/passwords:  
+
+	 root/root
+	 cs6522/cs6522
+
+```
+
 
 
 Cheers:)

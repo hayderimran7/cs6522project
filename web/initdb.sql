@@ -84,7 +84,7 @@ insert into users (
     ( select count(*) from users as us ) + 1, 'root', 'root', 'Root User', '12345');
 insert into users (
     cid, login_name, password, full_name, phone) values (
-    ( select count(*) from users as us ) + 1, 'cs3520', 'cs3520', 'cs3520', '352012');
+    ( select count(*) from users as us ) + 1, 'cs6522', 'cs6522', 'cs6522', 'cs6522');
 insert into users (
     cid, login_name, password, full_name, phone) values (
     ( select count(*) from users as us ) + 1, 'test', 'test', 'test', '1221122');

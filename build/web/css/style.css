@@ -1,0 +1,50 @@
+* { margin: 0; padding: 0; outline: 0; }
+
+body {
+    font-size: 12px;
+    line-height: 18px;
+    font-family: arial, sans-serif;
+    color: #383838;
+    background: #3b3b3b url(../img/background3.jpg);
+    background-size: cover;
+}
+
+a { color: #0252aa; text-decoration: none; cursor: pointer; }
+a:hover { text-decoration: underline; }
+a img { border: 0; }
+
+h2 { font-family: 'Georgia', Arial, serif; font-style: italic; font-size: 65px; line-height: 70px; color: #fff; }
+h3 { font-family: 'Georgia', Arial, serif; font-style: italic; font-size: 22px; line-height: 24px; color: #0182b5; }
+h4 { font-family: 'Georgia', Arial, serif; font-style: italic; font-size: 16px; line-height: 17px; color: #0871b3; font-weight: normal; }
+
+button, input, textarea, select { font-size: 12px; font-family: arial, sans-serif; }
+textarea { overflow: auto; }
+
+.cl { display: block; height: 0; font-size: 0; line-height: 0; text-indent: -4000px; clear: both; }
+.notext { font-size: 0; line-height: 0; text-indent: -4000px; }
+.left, .alignleft { float: left; display: inline; }
+.right, .alignright { float: right; display: inline; }
+
+.shell { width: 884px; margin: 0 auto; background: url(../img/shell.png) repeat-y 0 0; padding: 0 57px 0 57px; position: relative; }
+
+#header { padding-top: 30px; }
+
+#logo { width: 238px; height: 41px; float: left; display: inline; margin-left: -4px;  position: relative; }
+#logo span { position: absolute; bottom: -17px; right: -1px; font-size: 11px; line-height: 20px; }
+#logo span a { color: #44acd5; }
+#logo h1 a { display: block; height: 41px; background: url(../img/logo.png);  }
+
+#login-details { position: absolute; right: 60px; top: 16px; font-size: 12px; line-height: 16px; color: #707070; }
+#login-details #user { color: #0182b5; text-decoration: underline; font-weight:bold; }
+#login-details #user:hover { color: #000; text-decoration: underline; }
+#login-details .sum { color: #0182b5; }
+#login-details .sum:hover { text-decoration: none; color: #000; }
+#login-details p { float: left; display: inline; }
+#login-details .cart { float: left; display: inline; margin: 0 6px 0 12px; }
+#login-details .cart img { display: block; }
+#logout {padding-left: 1em;color: #0182b5; text-decoration: underline; font-weight:bold;}
+#logout:hover {color: #000; text-decoration: underline;}
+#navigation { float: right; display: inline; font-family: 'Georgia', Arial, serif; font-size: 14px; line-height: 20px; padding: 24px 4px 23px 0; }
+#navigation ul li { list-style: none; padding-left: 33px; float: left; display: inline; }
+#navigation ul li a { color: #383838; }
+#navigation ul li a.active { font-style: italic; font-weight: bold; text-decoration: none; cursor: default; }

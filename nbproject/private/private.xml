@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/cart.jsp</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/css/style.css</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/src/java/cs3520/util.java</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/src/java/cs3520/book.java</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/initdb.sql</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/browsebooks.jsp</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/register.jsp</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/README.md</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/index.jsp</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/check_login.jsp</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/login1.jsp</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/css/bootstrap.min.css</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/onebook.jsp</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/js/login.js</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/src/java/cs3520/dbconnector.java</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/src/java/cs3520/users.java</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/css/login.css</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/src/java/cs3520/orders.java</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/header.jsp</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/css/home.css</file>
+            <file>file:/Users/imalik/NetBeansProjects/projectbookstore/web/logout.jsp</file>
+        </group>
+    </open-files>
+</project-private>

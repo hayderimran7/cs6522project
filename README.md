@@ -1,11 +1,12 @@
 # CS6522 Course Project - Bookstore
 
-## By Muhammad Malik
+## By Muhammad Imran Malik
+## NetID: wm6052
 
 ## Introduction 
 
 This repository contains the source code for the CS6522 course project. The project is a bookstore app able to handle login,
-registration and order books into each user's cart. 
+registration and order books into each user's cart. Also allows using and adding credit cards linked with users.
   
 
 ## Steps to Run
@@ -13,12 +14,12 @@ registration and order books into each user's cart.
 
 1. Make sure Mysql is installed.
 
-2. From mysql workbench or commandline(if you are on Mac) run the initdb.sql. This will initialize 
+2. From mysql workbench or commandline(if you are on Mac) run the `web/initdb.sql`. This will initialize 
 the db schema and create tables for book, users, orders and insert initial data in it. 
 On Mac, do it as:
 
 ```
-cd projectbookstore/web/
+cd web/
 mysql -u root
 mysql> source initdb.sql 
 mysql> exit
@@ -41,9 +42,7 @@ mysql> exit
 9. Try logging in with init user accounts which were already created by initdb.sql in Step 2. 
 Some users to log in with username/password are:
 root/root
-CS6522/CS6522
-csueb/csueb
-test/test
+
 
 
 Cheers:)
